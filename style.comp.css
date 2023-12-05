@@ -219,7 +219,7 @@ i[class*='fa-'] {
 .footer {
   overflow-x: hidden;
   height: 10vw;
-  top: calc(85vw);
+  top: calc(120vw);
   position: relative;
   width: 100vw;
   background-color: #1D1F20;
@@ -332,7 +332,7 @@ i[class*='fa-'] {
   .footer__section--ul-1 {
     margin-top: 1.5vw !important; }
   .footer {
-    top: 120vw; } }
+    top: 130vw; } }
 
 @media screen and (max-width: 1140px) {
   header .header--logo img {
